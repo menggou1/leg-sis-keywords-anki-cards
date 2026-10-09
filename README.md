@@ -1,0 +1,2 @@
+# LegSis_Keywods_AnkiCard_tui_jie
+27考研政治腿姐keywords的Anki卡片附带用作提取材料的pdf。
