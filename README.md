@@ -13,11 +13,11 @@
 
 ### GitHub Releases
 
-[下载 keywords.apkg](https://github.com/menggou1/LegSis_Keywods_AnkiCard_tui_jie/releases/download/AnkiCard/keywords.apkg)
+[下载 keywords.apkg](https://github.com/menggou1/leg-sis-keywords-anki-cards/releases/download/AnkiCard/keywords.apkg)
 
 ### 镜像资源
 
-[通过镜像下载 keywords.apkg](https://hk.gh-proxy.com/https://github.com/menggou1/LegSis_Keywods_AnkiCard_tui_jie/releases/download/AnkiCard/keywords.apkg)
+[通过镜像下载 keywords.apkg](https://hk.gh-proxy.com/https://github.com/menggou1/leg-sis-keywords-anki-cards/releases/download/AnkiCard/keywords.apkg)
 
 ## 导入方法
 
